@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**Faizaan429/Faizaan429** is a ✨ _special_ ✨ repository because its `README.md` (this fil# 💫 About Me:
+# 💫 About Me:
 Hi 👋, I'm Mohammed Faizaan<br><br>🚀 Final Year Computer Science Engineering Student passionate about Full Stack Development, Problem Solving, and AI-powered Applications.<br><br>💻 I enjoy building scalable web applications using the MERN Stack and exploring Data Analytics, Machine Learning, and Cloud Technologies.<br><br>🌱 Currently improving my DSA, System Design, and Backend Development while actively looking for Software Development opportunities.<br><br>✨ I love learning new technologies and contributing to projects that solve real-world problems.
 
 
@@ -18,16 +15,4 @@ Hi 👋, I'm Mohammed Faizaan<br><br>🚀 Final Year Computer Science Engineerin
 ---
 [![](https://komarev.com/ghpvc/?username=Faizaan429&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->e) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
